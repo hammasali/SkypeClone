@@ -1,5 +1,7 @@
 # skype_clone
 
+A fasinating UI for real time chat. Compatible with device light and dark mode.
+
 ![screen_12_30](https://user-images.githubusercontent.com/52609580/117698729-71cbc300-b1dd-11eb-9fac-ffc3a84bf7ae.png)![screen_22_30](https://user-images.githubusercontent.com/52609580/117698778-80b27580-b1dd-11eb-80a6-67ef0ad627c6.png)![screen_31_30](https://user-images.githubusercontent.com/52609580/117698798-860fc000-b1dd-11eb-97b1-be8002deb609.png)![screen_41_30](https://user-images.githubusercontent.com/52609580/117698815-8ad47400-b1dd-11eb-96b4-805fc03ccf43.png)
 
 
