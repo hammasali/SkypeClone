@@ -1,6 +1,6 @@
 # RealTime Chat
 
-A fasinating UI for real time chat. Compatible with device light and dark mode. Hero widget with animated navigation used 
+A fasinating UI for real time chat. Compatible with device light and dark mode. Hero widget with animated navigation used. It took me one day to complete with design. The code is maintained with the proper architecture and pattern.
 
 # Packages
 1.  cupertino_icons: ^1.0.1
